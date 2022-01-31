@@ -1,1 +1,5 @@
-public class SkillDemo {} // don't feel like editing code on Github
+public class SkillDemo {
+  public static int add(int n, int m) {
+      return n + m;
+  }
+}
